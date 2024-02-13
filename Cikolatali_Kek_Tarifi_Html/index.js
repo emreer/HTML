@@ -1,1 +1,1 @@
-alert("Afiyet Olsun")
+alert("Afiyet Olsun")//sayfa acildiginde bildirim oalrak gelecek
